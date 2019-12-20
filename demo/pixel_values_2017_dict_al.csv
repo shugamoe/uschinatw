@@ -50,7 +50,6 @@
 59,Sod/Grass Seed
 60,Switchgrass
 61,Fallow/Idle Cropland
-62,Pasture/Grass
 63,Forest
 64,Shrubland
 65,Barren
@@ -82,8 +81,7 @@
 142,Evergreen Forest
 143,Mixed Forest
 152,Shrubland
-171,Grassland Herbaceous
-181,Pasture/Hay
+176,Grassland/Pasture
 190,Woody Wetlands
 195,Herbaceous Wetlands
 204,Pistachios
@@ -97,6 +95,7 @@
 212,Oranges
 213,Honeydew Melons
 214,Broccoli
+215,Avocados
 216,Peppers
 217,Pomegranates
 218,Nectarines
